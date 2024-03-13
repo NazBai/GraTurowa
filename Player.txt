@@ -1,0 +1,6 @@
+nazar 5 22 15 0 FisherTiger WODA
+6 21 16 1 Neptune WODA
+5 22 16 2 WhaleSally WODA
+7 20 17 3 Obsi ZIEMIA
+8 20 17 4 Yamato ZIEMIA
+7 23 16 5 Brick ZIEMIA
